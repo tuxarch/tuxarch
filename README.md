@@ -1,7 +1,7 @@
 ## 💖 СПАСИБО ЗА ВАШУ ПОДДЕРЖКУ ! 💖
 ## 💖 THANK YOU FOR YOUR SUPPORT! 💖
 
-[<img width="540" height="366" alt="1111111111111111" src="https://github.com/user-attachments/assets/0005150a-b259-4d5d-8872-53783b619406" />](https://pay.cloudtips.ru/p/770140bd)
+[<img width="540" height="366" alt="1111111111111111" src="qrCode.png" />](https://pay.cloudtips.ru/p/770140bd)
 | Валюта      | Сеть      | Адрес |
 |-------------|-----------|-------|
 | **TON**     |       | `UQAb0Y47YwlKBZDgEXm69W-UAooqRxA6bG8zjg9duySAd0X6` |
